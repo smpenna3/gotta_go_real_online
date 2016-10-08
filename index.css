@@ -2,6 +2,11 @@ body{
 	background-color: #ff66d9;
 }
 
+
 h1{
 	font-family: "Courier", serif;
+}
+
+img{
+	padding = 15px;
 }
